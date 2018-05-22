@@ -1,5 +1,5 @@
 <?php
-require_once("templateEmail.php");
+//require_once("templateEmail.php");
 
 // Criando classe
 class Usuario {
